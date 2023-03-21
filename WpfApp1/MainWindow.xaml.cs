@@ -24,5 +24,10 @@ namespace WpfApp1
         {
             InitializeComponent();
         }
+
+        private void btnTitle_Click(object sender, RoutedEventArgs e)
+        {
+            tltMain.Title = "FőAblak";
+        }
     }
 }
