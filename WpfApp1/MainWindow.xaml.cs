@@ -28,6 +28,7 @@ namespace WpfApp1
         private void btnTitle_Click(object sender, RoutedEventArgs e)
         {
             tltMain.Title = "FőAblak";
+            int szam = 123;
         }
     }
 }
