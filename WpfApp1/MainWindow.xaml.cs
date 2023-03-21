@@ -29,6 +29,7 @@ namespace WpfApp1
         {
             tltMain.Title = "FőAblak";
             int szam = 123;
+            szam = szam + szam;
         }
     }
 }
